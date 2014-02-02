@@ -17,13 +17,13 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Zizaco/ardent.git"
+            "url": "https://github.com/zizaco/ardent.git"
         }
     ],
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "4.1.x",
-        "Zizaco/ardent": "dev-has-session-fix"
+        "laravelbook/ardent": "dev-has-session-fix"
     },
     "require-dev": {
         "mockery/mockery": "0.7.2",
